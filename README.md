@@ -24,7 +24,8 @@ Experienced software engineer with expertise in Front-end and Full-stack develop
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  <a href="https://redux.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" width="36" height="36" alt="Material UI" /></a>
+  <a href="https://redux.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" width="36" height="36" alt="Redux" /></a>
+  <a href="https://webrtc.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/webrtc-icon-512x496-8uavoaey.png" width="36" height="36" alt="Redux" /></a>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="Shadcn  Logo" />
 </p>
 
