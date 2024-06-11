@@ -35,6 +35,7 @@ Experienced software engineer with expertise in Front-end and Full-stack develop
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://socket.io" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo.svg" width="36" height="36" alt="Socket.IO" /></a>
   <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="36" height="36" alt="Prisma" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="36" height="36" alt="Python" /></a>
 </p>
 
 #### DevOps & Tools
