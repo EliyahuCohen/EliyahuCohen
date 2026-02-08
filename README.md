@@ -5,7 +5,6 @@
 Experienced software engineer with expertise in Front-end and Full-stack development. Dedicated to continuous improvement and passionate about delivering efficient solutions. Seeking opportunities to contribute skills and enhance team success.
 
 - 🌍 Based in Israel
-- 🖥️ Portfolio: [My Website](http://eliyahu-cohen-portfolio.vercel.app/)
 - ✉️ Contact: [eliyahutrab@gmail.com](mailto:eliyahutrab@gmail.com)
 - 🤝 Open to collaborating on web-based projects
 
