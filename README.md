@@ -1,90 +1,87 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Eliyahu Cohen
+# Eliyahu Cohen
 
-## Software Developer
+### Senior Software Engineer • Team Lead • Full-Stack Architecture
 
-Experienced software engineer with expertise in Front-end and Full-stack development. Dedicated to continuous improvement and passionate about delivering efficient solutions. Seeking opportunities to contribute skills and enhance team success.
+Senior Full-Stack Engineer and Team Lead specializing in scalable distributed systems, modern web architecture, and high-performance backend infrastructure.
 
-- 🌍 Based in Israel
-- ✉️ Contact: [eliyahutrab@gmail.com](mailto:eliyahutrab@gmail.com)
-- 🤝 Open to collaborating on web-based projects
+Experienced in designing and leading production-grade applications within mission-critical cyber environments, with a strong focus on system reliability, scalability, security, and engineering excellence.
 
-### Skills
+---
 
-#### Frontend
-<p align="left" style="display:flex; flex-direction:column;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-  <a href="https://redux.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" width="36" height="36" alt="Redux" /></a>
-  <a href="https://webrtc.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/webrtc-icon-512x496-8uavoaey.png" width="36" height="36" alt="Redux" /></a>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="Shadcn  Logo" />
-</p>
+## Engineering Focus
 
-#### Backend
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://socket.io" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo.svg" width="36" height="36" alt="Socket.IO" /></a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="36" height="36" alt="Prisma" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="36" height="36" alt="Python" /></a>
-</p>
+* Full-Stack System Architecture
+* Distributed Systems & Microservices
+* Scalable Backend Infrastructure
+* Real-Time Systems & Event-Driven Architecture
+* High-Performance Frontend Applications
+* Secure API Design
+* Cloud & DevOps Workflows
+* Technical Leadership & Mentorship
 
-#### DevOps & Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-</p>
+---
 
-### Socials
+## Tech Stack
 
-<p align="left">
-  <a href="https://www.github.com/eliyahucohen" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/eliyahu-cohen-b3499716a/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-</p>
+### Frontend
 
-### Experience
+TypeScript • React • Next.js • Angular • Redux • TailwindCSS • Material UI • WebRTC
 
-- **2023 - Present: Fullstack Developer Team Lead, Police Cyber Unit**
-  - Developed advanced technological systems for the Israeli Police.
-  - Led a team on multiple projects, designing and implementing Fullstack development standards.
+### Backend
 
-- **2021 - 2023: Fullstack Developer, Rami Technologies**
-  - Created robust applications utilizing React and Node.js.
-  - Focused on efficient front-end and back-end solutions to enhance user experience.
+Node.js • Express.js • PostgreSQL • Prisma ORM • MongoDB • RabbitMQ • Socket.IO • Firebase • Python
 
-- **2021 - Present: Freelance Web Developer**
-  - Crafted visually appealing websites with strong backend and frontend development.
-  - Integrated captivating designs with flawless functionality.
+### Infrastructure & DevOps
 
-### Education
+Docker • Google Cloud Platform (GCP) • Nginx • CI/CD • Git • Linux
 
-- **2020 - 2023: Software Engineering, H'amichlala Lhachshara Miktzoit**
+---
 
-### Languages
+## Professional Experience
 
-- English
-- Hebrew
+### Israel Police — Cyber Crime Unit
+
+**Senior Software Engineer & Team Lead**
+*2023 — Present*
+
+* Leading architecture and development of large-scale cyber-focused systems
+* Designing secure and scalable full-stack platforms for operational environments
+* Driving engineering standards, code quality, and system design decisions
+* Managing development processes and mentoring engineers across multiple projects
+* Building distributed backend services, real-time systems, and modern frontend infrastructure
+
+---
+
+### Rami Technologies
+
+**Full-Stack Software Engineer**
+*2021 — 2023*
+
+* Developed scalable web platforms using React, Node.js, and TypeScript
+* Built backend services, APIs, and frontend systems for production environments
+* Improved system maintainability, performance, and development workflows
+
+---
+
+### Freelance
+
+**Full-Stack Developer**
+*2021 — Present*
+
+* Architected and developed custom web applications and SaaS platforms
+* Delivered end-to-end solutions including frontend, backend, infrastructure, and deployment
+* Worked with modern cloud-native technologies and scalable application patterns
+
+---
+
+## Core Competencies
+
+System Design • Software Architecture • Technical Leadership • Distributed Systems • Backend Engineering • Frontend Engineering • Cloud Infrastructure • API Security • Performance Optimization • Real-Time Applications
+
+---
+
+## Contact
+
+* LinkedIn: linkedin.com/in/eliyahu-cohen-b3499716a
+* GitHub: github.com/eliyahucohen
+* Email: [eliyahutrab@gmail.com](mailto:eliyahutrab@gmail.com)
